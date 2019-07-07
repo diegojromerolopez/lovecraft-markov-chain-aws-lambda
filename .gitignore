@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# bytecode cache
+__pycache__
+
+# vitualenv
+venv
+
+# idea IDE
+.idea
